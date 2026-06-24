@@ -1,0 +1,5 @@
+# StickerDigital - Google AdMob authorized sellers list
+# Publique este arquivo na raiz do seu site (https://julioocamargoo.github.io/app-ads.txt)
+#
+# Formato padrão AdMob (Substitua pub-3940256099942544 pelo seu Publisher ID real do AdMob quando criar a conta de produção)
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
